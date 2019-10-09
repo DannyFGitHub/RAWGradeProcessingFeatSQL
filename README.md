@@ -1,3 +1,5 @@
+A UI on JAVAFX for Interacting with SQL Database
+
 # Dependencies
 
 mysql-connector-java-8.0.17.jar
